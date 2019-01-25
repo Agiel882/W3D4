@@ -1,0 +1,19 @@
+current directory: /Users/appacademy/Desktop/W3D4/polls_app/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+/usr/local/var/rbenv/versions/2.5.0/bin/ruby -r ./siteconf20190124-80406-uyjq71.rb extconf.rb
+creating Makefile
+
+current directory: /Users/appacademy/Desktop/W3D4/polls_app/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/appacademy/Desktop/W3D4/polls_app/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/appacademy/Desktop/W3D4/polls_app/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20190124-80406-g6kx6/byebug
